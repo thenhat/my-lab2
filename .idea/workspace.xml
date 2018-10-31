@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d03c9c6d-7fa0-42b0-932f-94f0234ec768" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../page/gioithieu" beforeDir="false" afterPath="$PROJECT_DIR$/../page/gioithieu" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../page/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../page/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -184,12 +183,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540976795190</updated>
       <workItem from="1540976796732" duration="553000" />
-      <workItem from="1540981716801" duration="456000" />
+      <workItem from="1540981716801" duration="745000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1009000" />
+    <option name="totallyTimeSpent" value="1298000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="719" extended-state="0" />
