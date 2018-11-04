@@ -4,12 +4,16 @@
 }
 
 .header {
+    position: fixed;
     border: 1px solid black;
     height: 90px;
+    width: 100%;
+    top: 0;
+    background-color: #e8f1fe;
 }
 
 .header .logo {
-    border: 1px solid #ffffff;
+    border: 1px solid #e8f1fe;
     float: left;
     width: 60%;
     height: 100%;
@@ -28,7 +32,7 @@
 }
 
 .header .menu {
-    border: 1px solid #ffffff;
+    border: 1px solid #e8f1fe;
     float: left;
     width: 40%;
     height: 100%;
@@ -43,29 +47,15 @@
     float: left;
     margin: 15px 10px 0 10px;
 }
+
 .header .menu ul span {
     float: left;
     margin-top: 15px;
 }
 
-.quote {
-    border: 1px solid black;
-    height: 80px;
-    background-color: #6aa7dd;
-    text-align: center;
-}
-
-.quote .q {
-    margin-top: 15px;
-}
-
-.quote .p {
-    margin-left: 600px;
-}
-
 .main-content {
     border: 1px solid black;
-    height: 470px;
+    margin-top: 90px;
 }
 
 .main-content .row .item {
@@ -85,6 +75,25 @@
     background-color: #6aa7dd;
     text-align: center;
 }
-.clear{
+
+.clear {
     clear: both;
+}
+.scrolltop{
+    border: 3px solid black;
+    width: 160px;
+    position:fixed;
+    right: 0;
+    bottom: 20px;
+    background-color: #e9f2ff;
+    border-radius: 8px;
+}
+.scrolltop img{
+    float: left;
+    height:28px;
+    width: auto;
+}
+.scrolltop .content{
+    margin-top: 5px;
+    margin-left: 35px;
 }
